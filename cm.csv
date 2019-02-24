@@ -1,4 +1,4 @@
-Entity,Code,Year,CM Rate with NA Country Code,Child_Mortality_Rate
+Country,Code,Year,CM Rate with NA Country Code,Child_Mortality_Rate
 Iceland,ISL,2015,0.205800009,0.2058
 Iceland,ISL,2014,0.211199999,0.2112
 Iceland,ISL,2013,0.218799996,0.2188
